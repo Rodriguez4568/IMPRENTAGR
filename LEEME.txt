@@ -1,0 +1,9 @@
+IMPRESOS GR - Sitio web (HTML)
+1. Sube index.html (y la carpeta img/) a tu hosting. Funciona sin PHP.
+2. Los logos ya van dentro de index.html. La carpeta img/ trae copias PNG transparentes para redes o impresos.
+3. Fotos de trabajos (opcional): coloca .jpg/.webp en
+   img/servicios/<nombre-con-guiones>.jpg   (ej. cuadernos-personalizados-premium.jpg)
+   img/productos/  (tarjetas.jpg, cuadernos.jpg, carpetas.jpg, volantes.jpg, stickers.jpg, banners.jpg)
+   img/galeria/    (tarjetas-1.jpg, cuadernos-1.jpg, carpetas-1.jpg, volantes-1.jpg, stickers-1.jpg, sublimacion-1.jpg, publicidad-1.jpg, eventos-1.jpg)
+   Si no existen, se muestra un bloque de color con formas del logo.
+4. WhatsApp configurado: +502 3032 7894.
